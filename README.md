@@ -70,4 +70,4 @@ Certifique-se de ter o **Java Development Kit (JDK)** instalado (versão 8 ou su
 4. Clique no botão de **Run** (Executar) ou clique com o botão direito e selecione `Run 'Principal.main()'`.
 
 ---
-*Desenvolvido com dedicação por Carlos Alexandre Paula.*
+*Desenvolvido com dedicação por Carlos Resende.*
